@@ -24,26 +24,10 @@ Abstract: >
   Ipsum](https://hipsum.co/)) for demonstrative purposes. It can even include
   math like
 
-Significance Statement: >
-  $$S = k_b\ln \Omega. \tag{1}$$
-
-
-  Your abstract goes here. It is particularly interesting that this is just a test.
-  Lorem ipsum dolor amet post-ironic aliquip next level vaporware, dolore
-  yuccie trust fund etsy officia blue bottle distillery ad. Raw denim swag
-  selvage wolf, direct trade air plant reprehenderit you probably haven’t heard
-  of them. Aute craft beer cray, pariatur la croix lumbersexual chillwave
-  fashion axe pug adipisicing woke banh mi. Hammock asymmetrical sustainable
-  keffiyeh biodiesel. Banjo trust fund leggings direct trade. Cronut plaid
-  shaman whatever, disrupt ad tofu minim pug dolore forage franzen glossier.
-  Small batch humblebrag ut, artisan health goth edison bulb voluptate lorem
-  dolore chillwave mumblecore iPhone craft beer ex. Enim fingerstache kale
-  chips, VHS succulents butcher meggings woke lo-fi mustache chicharrones chia
-  id consectetur. Gochujang taiyaki incididunt, chartreuse tumblr poutine banjo
-  culpa helvetica eu master cleanse migas umami. Dreamcatcher aliquip hexagon
-  disrupt deep v ugh, banjo truffaut distillery flannel la croix copper mug. Af
-  8-bit tattooed asymmetrical mumblecore swag direct trade iPhone disrupt
-  exercitation mixtape.
+Background: >
+'Gardner, Zanic, and coworkers investigated the dynamics of microtubule catastrophe, the switching of a microtubule from a growing to a shrinking state. In particular, they were interested in the time between the start of growth of a microtubule and the catastrophe event. Their goal was to have a model of the time to catastrophe.
+'They monitored microtubules by using tubulin (the monomer that comprises a microtubule) that was labeled with a fluorescent marker. As a control to make sure that fluorescent labels and exposure to laser light did not affect the microtubule dynamics, they performed a similar experiment using differential interference contrast (DIC) microscopy. They measured the time until catastrophe with labeled and unlabeled tubulin. Then they modeled it with a Gamma distribution.'
+'The question we want to answer is how are microtubule time to catastrophe distributed? To do this, we will investigate if a fluorescent label will affect the time of catastrophe. We will also investigate different models and compare how they work with the data. We will consider the Gamma distribution and the successive Poisson model as well. From there, we can find the perferred model for the data. We will also analyze how the time to catastrophe may change with increasing tubulin concentration.'
 Summary:  >
   A short summary of your work goes here. Think "significance statement".
   Nisi bushwick seitan et authentic aute, laboris blog sed in wayfarers lyft
