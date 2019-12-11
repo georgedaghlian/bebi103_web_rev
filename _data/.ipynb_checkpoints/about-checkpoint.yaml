@@ -18,15 +18,9 @@ Background: >
     Gardner, Zanic, and coworkers investigated the dynamics of microtubule catastrophe, the switching of a microtubule from a growing to a shrinking state. In particular, they were interested in the time between the start of growth of a microtubule and the catastrophe event. Their goal was to have a model of the time to catastrophe.
     They monitored microtubules by using tubulin (the monomer that comprises a microtubule) that was labeled with a fluorescent marker. As a control to make sure that fluorescent labels and exposure to laser light did not affect the microtubule dynamics, they performed a similar experiment using differential interference contrast (DIC) microscopy. They measured the time until catastrophe with labeled and unlabeled tubulin. Then they modeled it with a Gamma distribution.
     The question we want to answer is how are microtubule time to catastrophe distributed? To do this, we will investigate if a fluorescent label will affect the time of catastrophe. We will also investigate different models and compare how they work with the data. We will consider the Gamma distribution and the successive Poisson model as well. From there, we can find the perferred model for the data. We will also analyze how the time to catastrophe may change with increasing tubulin concentration.
-Summary:  >
-  A short summary of your work goes here. Think "significance statement".
-  Nisi bushwick seitan et authentic aute, laboris blog sed in wayfarers lyft
-  plaid ut. Id aesthetic venmo, palo santo aliqua photo booth blue bottle.
-  Meditation non copper mug lomo glossier kombucha. Cred laboris meditation
-  poke sriracha street art letterpress food truck master cleanse adipisicing.
-  Hashtag affogato chambray vaporware subway tile, kogi helvetica ea tacos sint
-  brooklyn. Williamsburg waistcoat raclette seitan glossier messenger bag
-  dolore ramps, flannel magna nisi hot chicken elit pariatur kale chips.
+Understanding effect of fluorescent label on catastrophe:  >
+    First, we wanted to see if the fluorescent label, a barrel protein, will affect the time to catastrophe. Labeling with this marker may affect the time to catastrophe since they are adding a large protein to tubulin. So we can graph the ECDFs of the time to catastrophe of the labeled and unlabeled tubulin in order to determine if this is true. If there is a change, we expect to see two different ECDFs but if there is not, the ECDFs should overlay. 
+
 Acknowledgments: > 
   Who helped you? Share the love! Valeria Rivera, Destiny Roach, Alberto 
   Fernandez, Trenton Rowland, Sherlyn Frederick, Mallory Irwin, Jazmyn Cohen,
