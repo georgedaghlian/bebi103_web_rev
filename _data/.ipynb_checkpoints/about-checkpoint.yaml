@@ -10,19 +10,9 @@
 # The content below will appear 
 
 title: >
-  This is very interesting
+    Analysis of microtubule catastrophe
 authors: >
-  Author 1, Author 2, Author 3, Author 4
-Abstract: >
-  This is a general purpose website template for conveying your data, code, and
-  overall scientific story to the general public! See the
-  [GitHub](https://github.com/gchure/reproducible_website) for the actual code
-  used to generate this website, along with lengthy documentation about how to use
-  it. This is meant to be used in tandem with the [GitHub repository template for
-  reproducible research](https://github.com/gchure/reproducible_research). The
-  Rest of this website is filled with dummy text (my favorite, [Hiptser
-  Ipsum](https://hipsum.co/)) for demonstrative purposes. It can even include
-  math like
+  Jessica Sun, Hanwen Zhang, George Daghlian
 
 Background: >
     Gardner, Zanic, and coworkers investigated the dynamics of microtubule catastrophe, the switching of a microtubule from a growing to a shrinking state. In particular, they were interested in the time between the start of growth of a microtubule and the catastrophe event. Their goal was to have a model of the time to catastrophe.
