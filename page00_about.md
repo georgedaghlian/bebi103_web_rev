@@ -2,9 +2,7 @@
 layout: page
 title: About
 description: Information about the project, website, and links to the paper and SI
-<!-- img: about.png # Add image post (optional)
-caption: "A Serious Man (20009)"
-permalink: index.html -->
+permalink: index.html
 sidebar: true
 ---
 
